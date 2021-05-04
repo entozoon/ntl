@@ -1,8 +1,8 @@
 {
-  "name": "ntl",
+  "name": "ntl-entozoon-temporary",
   "version": "5.1.0",
   "description": "Interactive cli tool to list and run package scripts",
-  "repository": "ruyadorno/ntl",
+  "repository": "entozoon/ntl",
   "author": {
     "name": "Ruy Adorno",
     "twitter": "ruyadorno",
